@@ -1,19 +1,3 @@
-Absolutely, Saqib 👍 Your current README is already good, but I can make it **much more professional, accurate, cleaner, and recruiter-friendly**.
-
-I also noticed some issues:
-
-* Your current profile says **Software Engineer**, but you're currently a **Software Engineering student**.
-* Some technologies look a little too broad if you haven't actually used them extensively.
-* The README is quite long and has repeated information.
-* Some GitHub statistics services you're using are outdated/unreliable.
-* The project descriptions can be made much stronger.
-* Your profile should emphasize **projects + engineering journey + current focus**, rather than just listing technologies.
-* Your GitHub/LinkedIn links should be presented more cleanly.
-* Your developer journey can be updated toward **Full-Stack + Python + Software Engineering**.
-
-I couldn't reliably read the live contents of your GitHub profile from the public GitHub page right now, so I don't want to invent repositories or technologies that aren't actually there.
-
-### ⭐ Recommended new profile README
 
 # 👋 Hi, I'm Saqib Anwar
 
