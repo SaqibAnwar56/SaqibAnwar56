@@ -1,3 +1,9 @@
+Yes — I checked your actual GitHub repositories, including **Jacobabad**, **Noor-ul-Quran**, **OBR Queue Management System**, **Python Masterpiece Journey**, and **DSA Masterpiece Journey**. The Jacobabad repository is particularly worth highlighting because it is a live, responsive city-guide website with an interactive map, history, gallery, local news, SEO, and Vercel deployment.
+
+I also corrected Noor-ul-Quran's features to match its actual repository: **99 Names of Allah, Tasbih, bookmarks, Surahs, Paras, Durood Paak, Ayat-ul-Kursi and Four Quls**.  Your Python repo currently documents **6 completed chapters, 6 practice sheets and 3 mini-projects**, while your DSA repo covers arrays, linked lists, stacks/queues, trees, graphs, sorting/searching, recursion, DP, hashing, sliding window and greedy algorithms.
+
+Here is the **final updated version** with exactly the five projects you requested, with **Jacobabad added** and better descriptions.
+
 # 👋 Hi, I'm Saqib Anwar
 
 ### 💻 Software Engineering Student | Web Developer | Python Developer
@@ -90,36 +96,110 @@ I enjoy turning programming concepts into real-world projects and continuously i
 
 # 🚀 Featured Projects
 
-## 📖 Noor-ul-Quran
+## 🏙️ Jacobabad City Guide
 
-A Quran reading and remembrance platform designed to provide a simple, accessible, and user-friendly digital experience.
+A modern community website created to give **Jacobabad, Sindh, Pakistan** a digital presence.
+
+The project combines local history, places to visit, photography, an interactive map, video content, and local news into one responsive web experience.
 
 ### ✨ Features
 
-* 📚 114 Surahs
-* 📖 30 Paras
-* 🌍 Arabic Text & Translations
-* 🎧 Audio Support
+* 🏛️ Jacobabad history timeline
+* 📍 Places to visit
+* 🗺️ Interactive Google Map
+* 🖼️ Photo gallery with lightbox
+* 🎬 City video tour
+* 📰 Local newspaper links
+* 🔍 Smart location search
+* ✉️ Working contact form
+* 🌗 Light / Dark mode
+* 📱 Fully responsive design
+* 🔎 SEO-ready structure
+* 🚀 Deployed on Vercel
+
+### 🛠️ Built With
+
+**HTML5 • CSS3 • Vanilla JavaScript • Vercel**
+
+🔗 **[View Repository](https://github.com/SaqibAnwar56/Jacobabad)**
+🌐 **[Visit Live Website](https://jacobabad.vercel.app/)**
+
+---
+
+## 📖 Noor-ul-Quran
+
+A free online Quran platform designed for **Quran reading, recitation and daily remembrance**.
+
+### ✨ Features
+
+* 📗 All **114 Surahs**
+* 📘 All **30 Paras / Juz**
+* 🌍 Arabic text & English translation
+* 🎧 Verse-by-verse audio recitation
 * 🤲 Durood Paak
-* 🕌 Ayat-ul-Kursi
-* 📿 4 Quls
+* 🛡️ Ayat-ul-Kursi
+* 🕋 Four Quls
+* ✨ 99 Names of Allah
+* 📿 Tasbih counter
+* 🔖 Verse & Dua bookmarks
+* 🌗 Light / Dark mode
+* 📱 Fully responsive design
+* 🔎 SEO-ready
+
+### 🛠️ Built With
+
+**HTML5 • CSS3 • Vanilla JavaScript • AlQuran Cloud API • AlAdhan API**
 
 🔗 **[View Repository](https://github.com/SaqibAnwar56/Noor-ul-Quran)**
+🌐 **[Visit Live Website](https://noor-ul-quran.infinityfreeapp.com/)**
+
+---
+
+## 📋 OBR Queue Management System
+
+A PHP-based **Queue Management System** designed to solve a real-world organizational problem through software.
+
+The project focuses on making queue handling more organized, reducing manual work, and improving the overall workflow.
+
+### 🎯 Project Focus
+
+* 📋 Queue management
+* 👥 Organized customer handling
+* 🔢 Queue/order tracking
+* ⚙️ Practical software workflow
+* 🌐 Web-based implementation
+
+### 🛠️ Built With
+
+**PHP • HTML • CSS • JavaScript**
+
+🔗 **[View Repository](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM)**
 
 ---
 
 ## 🐍 Python Masterpiece Journey
 
-A structured Python learning repository documenting my journey from programming fundamentals toward advanced concepts and practical development.
+A structured Python learning repository documenting my journey from **Python fundamentals toward practical programming and advanced development**.
 
-### 📚 Focus Areas
+The repository is built around consistent learning, practice sheets, coding exercises, and mini projects.
 
-* Python Fundamentals
-* Object-Oriented Programming
-* Data Structures
+### 📚 Current Progress
+
+* ✅ 6 Chapters Completed
+* ✅ 6 Practice Sheets Completed
+* ✅ 3 Mini Projects Built
+* 🎯 Building strong Python fundamentals
+
+### 🧠 Topics
+
+* Python Modules & pip
+* Variables & Data Types
+* Strings
+* Lists & Tuples
+* Dictionaries & Sets
+* Conditional Statements
 * Problem Solving
-* Practical Projects
-* Advanced Python Concepts
+* Mini Projects
 
 🔗 **[View Repository](https://github.com/SaqibAnwar56/PYTHON_MASTERPIECE_JOURNEY-BY-SAQIB-ANWAR-)**
 
@@ -127,32 +207,27 @@ A structured Python learning repository documenting my journey from programming 
 
 ## 🧠 DSA Masterpiece Journey
 
-A dedicated repository focused on developing algorithmic thinking and understanding fundamental data structures and algorithms using Java.
+A dedicated repository documenting my journey through **Data Structures & Algorithms**, algorithmic thinking, coding practice, and problem solving.
 
 ### 📚 Topics
 
-* Arrays
-* Linked Lists
-* Stacks
-* Queues
-* Searching Algorithms
-* Sorting Algorithms
-* Algorithmic Thinking
-* Problem Solving
+* 📦 Arrays & Strings
+* 🔗 Linked Lists
+* 📚 Stacks & Queues
+* 🌳 Trees & BST
+* 🕸️ Graphs
+* 🔍 Searching Algorithms
+* 🔃 Sorting Algorithms
+* 🔁 Recursion & Backtracking
+* 🧮 Dynamic Programming
+* #️⃣ Hashing
+* 🪟 Sliding Window
+* 🎯 Greedy Algorithms
+* 💻 Coding Challenges & Practice
 
 🔗 **[View Repository](https://github.com/SaqibAnwar56/DSA-Masterpiece-Journey)**
 
 ---
-
-## 📋 OBR Queue Management System
-
-A PHP-based queue management system designed to solve a real-world organizational problem through software.
-
-The project focuses on making queue handling more organized, reducing manual work, and improving the overall workflow.
-
-🔗 **[View Repository](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM)**
-
-
 
 # 🧠 My Learning Journey
 
