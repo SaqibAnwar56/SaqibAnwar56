@@ -1,8 +1,3 @@
-Yes — I checked your actual GitHub repositories, including **Jacobabad**, **Noor-ul-Quran**, **OBR Queue Management System**, **Python Masterpiece Journey**, and **DSA Masterpiece Journey**. The Jacobabad repository is particularly worth highlighting because it is a live, responsive city-guide website with an interactive map, history, gallery, local news, SEO, and Vercel deployment.
-
-I also corrected Noor-ul-Quran's features to match its actual repository: **99 Names of Allah, Tasbih, bookmarks, Surahs, Paras, Durood Paak, Ayat-ul-Kursi and Four Quls**.  Your Python repo currently documents **6 completed chapters, 6 practice sheets and 3 mini-projects**, while your DSA repo covers arrays, linked lists, stacks/queues, trees, graphs, sorting/searching, recursion, DP, hashing, sliding window and greedy algorithms.
-
-Here is the **final updated version** with exactly the five projects you requested, with **Jacobabad added** and better descriptions.
 
 # 👋 Hi, I'm Saqib Anwar
 
