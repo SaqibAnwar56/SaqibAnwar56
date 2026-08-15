@@ -1,225 +1,90 @@
-# 👋 Hey, I'm Saqib Anwar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Hey+there!+I'm+Saqib+Anwar;Software+Engineer+%7C+Web+Developer;Python+%26+Full-Stack+Enthusiast;Building+%26+Solving+Problems+🚀" alt="Typing SVG" />
+</p>
 
-### 💻 Software Engineer | Web Developer | Python Developer
+<p align="center">
+  <a href="https://www.linkedin.com/in/saqib-anwar-673097351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SaqibAnwar56"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 > *Building, learning, breaking, fixing, and building again. 🚀*
 
-I'm a passionate developer from **Jamshoro, Pakistan**, currently focused on **web development, Python, software engineering, and problem solving**.
+---
 
-I enjoy turning ideas into real-world applications and continuously improving my skills through projects, experimentation, and learning.
+### 📌 About Me
+
+I am a passionate **Software Engineering Student & Full-Stack Developer** based in **Jamshoro, Pakistan**. Driven by problem-solving and clean code, I build scalable web applications and explore backend architectures, cloud computing, operating systems, and networking.
+
+* 🔭 **Currently Building:** Web development & software engineering projects.
+* 🌱 **Currently Learning:** Advanced programming, system architecture, operating systems & cloud technologies.
+* 🧠 **Practicing:** Data Structures & Algorithms, Object-Oriented Programming, and Python problem-solving.
+* 🤝 **Open To:** Open-source contributions, technical collaborations, and software engineering internships.
+* 🎯 **Goal:** Become a high-impact Full-Stack / Software Engineer.
+* ⚡ **Fun Fact:** I believe the best way to master programming is simply to **build things**.
 
 ---
 
-## 🚀 About Me
+### 🛠️ Tech Stack
 
-* 🔭 Currently working on **web development & software projects**
-* 🌱 Currently learning **advanced programming, web technologies & software engineering**
-* 🧠 Practicing **DSA, OOP, Python & problem solving**
-* 💻 Building projects to turn theoretical knowledge into practical experience
-* 🤝 Open to **collaboration, internships, open-source & interesting projects**
-* 🎯 Goal: Become a **strong full-stack/software engineer**
-* ⚡ Fun fact: I believe the best way to learn programming is to **build things**
+**Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
----
+**Web Development & Frameworks**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-## 🛠️ Tech Stack
+**Databases & Deployment**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
-### 👨‍💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
-### 📊 Data & Tools
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-
-### ☁️ Deployment & Platforms
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
-
-### 🎨 Design & Productivity
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=Canva\&logoColor=white)
+**Data Science & Developer Tools**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 📖 Noor-ul-Quran
-
-A free, ad-free Quran platform designed to make daily Quran reading and remembrance accessible.
-
-**Features include:**
-
-* 📚 114 Surahs
-* 📖 30 Paras
-* 🌍 Arabic text & translations
-* 🎧 Audio
-* 🤲 Durood Paak
-* 🕌 Ayat-ul-Kursi
-* 📿 4 Quls
-
-🔗 **Explore:** [Noor-ul-Quran](https://github.com/SaqibAnwar56/Noor-ul-Quran)
+| Project | Highlights | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **Noor-ul-Quran** | Free, ad-free Islamic platform with 114 Surahs, 30 Paras, Arabic text, translations, and audio. | Web Tech, JS | [View Project](https://github.com/SaqibAnwar56/Noor-ul-Quran) |
+| **Python Masterpiece Journey** | Structured journey through Python fundamentals, OOP, problem solving, and advanced concepts. | Python | [View Project](https://github.com/SaqibAnwar56/PYTHON_MASTERPIECE_JOURNEY-BY-SAQIB-ANWAR-) |
+| **DSA Masterpiece Journey** | Repository dedicated to algorithmic thinking and data structure implementations. | Java, DSA | [View Project](https://github.com/SaqibAnwar56/DSA-Masterpiece-Journey) |
+| **OBR Queue Management System** | PHP application built to solve real-world queue handling and organizational workflow. | PHP, MySQL, Apache | [View Project](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM) |
+| **Portfolio Website** | Modern personal portfolio designed to showcase projects, skills, and developer progress. | HTML, CSS, JS | [View Project](https://github.com/SaqibAnwar56/CodeAlpha_Build-your-own-portfolio-site) |
 
 ---
 
-### 🐍 Python Masterpiece Journey
-
-A structured journey through Python — from fundamentals toward advanced development.
-
-**Focus areas:**
-
-* Python fundamentals
-* Object-oriented programming
-* Problem solving
-* Data structures
-* Practical projects
-* Advanced Python concepts
-
-🔗 **Explore:** [Python Masterpiece Journey](https://github.com/SaqibAnwar56/PYTHON_MASTERPIECE_JOURNEY-BY-SAQIB-ANWAR-)
-
----
-
-### 🧠 DSA Masterpiece Journey
-
-A dedicated repository for improving algorithmic thinking and data-structure knowledge through Java.
-
-🔗 **Explore:** [DSA Masterpiece Journey](https://github.com/SaqibAnwar56/DSA-Masterpiece-Journey)
-
----
-
-### 📋 OBR Queue Management System
-
-A PHP-based queue management project focused on solving a real-world organizational problem through software.
-
-🔗 **Explore:** [OBR Queue Management System](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM)
-
----
-
-### 🌐 Portfolio Website
-
-A personal portfolio project created to showcase web development skills and projects.
-
-🔗 **Explore:** [Portfolio Project](https://github.com/SaqibAnwar56/CodeAlpha_Build-your-own-portfolio-site)
-
----
-
-## 📈 My Developer Journey
+### 📈 My Developer Roadmap
 
 ```text
-Programming Fundamentals
+Programming Fundamentals (C / C++)
         ↓
-      C / C++
+     Java & Object-Oriented Programming (OOP)
         ↓
-      Java / OOP
+     Data Structures & Algorithms (DSA)
         ↓
-       DSA
+     Python & Scripting Mastery
         ↓
-      Python
+     Web Development & Frameworks
         ↓
- Web Development
+     Databases, Backend & Systems
         ↓
-Databases & Backend
-        ↓
- Real-World Projects
-        ↓
-   Full-Stack Engineer 🚀
-```
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaqibAnwar56&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaqibAnwar56&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibAnwar56&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaqibAnwar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaqibAnwar56&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/SaqibAnwar56">
-<img src="https://img.shields.io/badge/GitHub-SaqibAnwar56-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saqib-anwar-673097351/">
-<img src="https://img.shields.io/badge/LinkedIn-Saqib%20Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💭 Developer Mindset
-
-> **"Don't just learn to code. Learn to build."**
-
-Every repository is another step in the journey.
-
-Every bug is another lesson.
-
-Every project is an opportunity to become better. 🚀
-
----
-
-<p align="center">
-
-### ⭐ If you find something useful here, consider giving it a star!
-
-**Thanks for visiting my profile! 👋**
-
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SaqibAnwar56\&style=for-the-badge\&color=blue)
-
-<!--
-Thanks for visiting!
-Keep learning. Keep building. Keep shipping. 🚀
--->
+     Full-Stack Engineer 🚀
