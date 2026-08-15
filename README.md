@@ -1,14 +1,19 @@
+Absolutely. I’d recommend using this as your **complete `README.md`**. I’ve cleaned the wording, removed unnecessary repetition, fixed the statistics/achievement sections, and kept your profile focused on **Software Engineering + Python + Web Development + DSA**.
 
 # 👋 Hi, I'm Saqib Anwar
 
-### 💻 Software Engineering Student | Full-Stack Developer | Python Developer
+### 💻 Software Engineering Student | Web Developer | Python Developer
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Python+Developer;DSA+%26+Problem+Solving;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/SaqibAnwar56">
-    <img src="https://img.shields.io/badge/GitHub-SaqibAnwar56-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-SaqibAnwar56-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/saqib-anwar-673097351/">
-    <img src="https://img.shields.io/badge/LinkedIn-Saqib%20Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Saqib%20Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -16,70 +21,71 @@
 
 I'm **Saqib Anwar**, a Software Engineering student from **Jamshoro, Pakistan**, passionate about software development, web technologies, Python, problem solving, and building practical applications.
 
-I enjoy taking concepts from the classroom and turning them into real projects — from data structures and algorithms to web applications, databases, and software systems.
+I enjoy turning programming concepts into real-world projects and continuously improving my skills through experimentation, practice, and hands-on development.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 Software Engineering student
+* 🎓 Software Engineering Student
 * 💻 Interested in **Full-Stack Development & Software Engineering**
 * 🐍 Currently strengthening my **Python** skills
-* 🌐 Building and experimenting with **Web Applications**
-* 🧠 Practicing **DSA, OOP & Problem Solving**
-* 🗄️ Learning and working with **Databases**
-* 🛠️ Turning academic concepts into practical software projects
-* 🤝 Open to **internships, collaborations, open-source and interesting projects**
-* 🎯 Long-term goal: Become a **strong Full-Stack / Software Engineer**
-* ⚡ My philosophy: **Learn → Build → Break → Fix → Improve**
+* 🌐 Building **Web Applications & Software Projects**
+* 🧠 Practicing **Data Structures, Algorithms & Problem Solving**
+* ☕ Learning **Java, OOP & Software Design**
+* 🗄️ Working with **SQL & NoSQL Databases**
+* 🔧 Using Git and GitHub for version control and project development
+* 🤝 Open to **Internships, Collaboration, Open Source & Interesting Projects**
+* 🎯 Goal: Become a **strong Full-Stack / Software Engineer**
+* ⚡ Philosophy: **Learn → Build → Break → Fix → Improve**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
-### 📊 Python & Data
+## 📊 Python & Data
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-### 🔧 Tools & Platforms
+## 🔧 Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
 </p>
 
 ---
@@ -88,44 +94,42 @@ I enjoy taking concepts from the classroom and turning them into real projects �
 
 ## 📖 Noor-ul-Quran
 
-A Quran reading and remembrance platform designed to provide a simple and accessible digital experience for Muslims.
+A Quran reading and remembrance platform designed to provide a simple, accessible, and user-friendly digital experience.
 
 ### ✨ Features
 
 * 📚 114 Surahs
 * 📖 30 Paras
-* 🌍 Arabic text & translations
-* 🎧 Audio support
+* 🌍 Arabic Text & Translations
+* 🎧 Audio Support
 * 🤲 Durood Paak
 * 🕌 Ayat-ul-Kursi
 * 📿 4 Quls
 
-🔗 **Repository:**
-[https://github.com/SaqibAnwar56/Noor-ul-Quran](https://github.com/SaqibAnwar56/Noor-ul-Quran)
+🔗 **[View Repository](https://github.com/SaqibAnwar56/Noor-ul-Quran)**
 
 ---
 
 ## 🐍 Python Masterpiece Journey
 
-A structured Python learning repository documenting my journey from programming fundamentals to advanced concepts and practical development.
+A structured Python learning repository documenting my journey from programming fundamentals toward advanced concepts and practical development.
 
 ### 📚 Focus Areas
 
-* Python fundamentals
+* Python Fundamentals
 * Object-Oriented Programming
 * Data Structures
 * Problem Solving
 * Practical Projects
 * Advanced Python Concepts
 
-🔗 **Repository:**
-[https://github.com/SaqibAnwar56/PYTHON_MASTERPIECE_JOURNEY-BY-SAQIB-ANWAR-](https://github.com/SaqibAnwar56/PYTHON_MASTERPIECE_JOURNEY-BY-SAQIB-ANWAR-)
+🔗 **[View Repository](https://github.com/SaqibAnwar56/PYTHON_MASTERPIECE_JOURNEY-BY-SAQIB-ANWAR-)**
 
 ---
 
 ## 🧠 DSA Masterpiece Journey
 
-A dedicated repository focused on developing strong algorithmic thinking and understanding fundamental data structures and algorithms using Java.
+A dedicated repository focused on developing algorithmic thinking and understanding fundamental data structures and algorithms using Java.
 
 ### 📚 Topics
 
@@ -135,69 +139,90 @@ A dedicated repository focused on developing strong algorithmic thinking and und
 * Queues
 * Searching Algorithms
 * Sorting Algorithms
-* Problem Solving
 * Algorithmic Thinking
+* Problem Solving
 
-🔗 **Repository:**
-[https://github.com/SaqibAnwar56/DSA-Masterpiece-Journey](https://github.com/SaqibAnwar56/DSA-Masterpiece-Journey)
+🔗 **[View Repository](https://github.com/SaqibAnwar56/DSA-Masterpiece-Journey)**
 
 ---
 
 ## 📋 OBR Queue Management System
 
-A PHP-based queue management system created to address a real-world organizational problem.
+A PHP-based queue management system designed to solve a real-world organizational problem through software.
 
-The project focuses on improving queue handling, reducing manual work, and providing a more organized workflow through software.
+The project focuses on making queue handling more organized, reducing manual work, and improving the overall workflow.
 
-🔗 **Repository:**
-[https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM)
+🔗 **[View Repository](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM)**
 
 ---
 
 ## 🌐 Portfolio Website
 
-A personal portfolio website developed to showcase my skills, projects, learning journey, and development experience.
+A personal portfolio website created to showcase my skills, projects, development journey, and experience.
 
-🔗 **Repository:**
-[https://github.com/SaqibAnwar56/CodeAlpha_Build-your-own-portfolio-site](https://github.com/SaqibAnwar56/CodeAlpha_Build-your-own-portfolio-site)
+🔗 **[View Repository](https://github.com/SaqibAnwar56/CodeAlpha_Build-your-own-portfolio-site)**
 
 ---
 
-# 🧠 What I'm Currently Working On
+# 🧠 My Learning Journey
 
 ```text
-Programming
-     ↓
-C / C++
-     ↓
-Java & OOP
-     ↓
-Data Structures & Algorithms
-     ↓
-Python
-     ↓
-Web Development
-     ↓
-Databases
-     ↓
-Backend Development
-     ↓
-Real-World Projects
-     ↓
-Full-Stack Engineering 🚀
+Programming Fundamentals
+          ↓
+       C / C++
+          ↓
+      Java & OOP
+          ↓
+       DSA
+          ↓
+       Python
+          ↓
+   Web Development
+          ↓
+Databases & Backend
+          ↓
+ Real-World Projects
+          ↓
+ Full-Stack Engineering 🚀
 ```
 
 ---
 
-# 📈 GitHub Statistics
+# 📚 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaqibAnwar56&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=SaqibAnwar56&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://img.shields.io/badge/Python-Advanced%20Concepts-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-Full--Stack-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Engineering-6C63FF?style=for-the-badge"/>
+
+</p>
+
+I'm continuously working on improving my:
+
+* 🧠 Problem-solving ability
+* 🐍 Python programming
+* 🌐 Web development
+* 🗄️ Database knowledge
+* 🏗️ Software engineering practices
+* 📚 Data structures & algorithms
+* 🚀 Real-world project development
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaqibAnwar56&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Saqib's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibAnwar56&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibAnwar56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=SaqibAnwar56&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -205,15 +230,15 @@ Full-Stack Engineering 🚀
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaqibAnwar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaqibAnwar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-# 📊 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaqibAnwar56&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaqibAnwar56&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -223,11 +248,11 @@ Full-Stack Engineering 🚀
 <p align="center">
 
 <a href="https://github.com/SaqibAnwar56">
-<img src="https://img.shields.io/badge/GitHub-SaqibAnwar56-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-SaqibAnwar56-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saqib-anwar-673097351/">
-<img src="https://img.shields.io/badge/LinkedIn-Saqib%20Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Saqib%20Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </p>
@@ -257,7 +282,7 @@ Every line of code brings me closer to becoming the engineer I want to be. 🚀
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaqibAnwar56&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=SaqibAnwar56&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 <!--
