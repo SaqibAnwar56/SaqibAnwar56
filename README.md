@@ -284,10 +284,8 @@ I'm continuously working on improving my:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SaqibAnwar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" alt="GitHub Achievements"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=SaqibAnwar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" alt="GitHub Achievements"/>
 </p>
-
----
 
 # 📈 Contribution Activity
 
