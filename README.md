@@ -1,11 +1,9 @@
-
-
 # 👋 Hi, I'm Saqib Anwar
 
 ### 💻 Software Engineering Student | Web Developer | Python Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Python+Developer;DSA+%26+Problem+Solving;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Python+Developer;DSA+%26+Problem+Solving;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -154,15 +152,7 @@ The project focuses on making queue handling more organized, reducing manual wor
 
 🔗 **[View Repository](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM)**
 
----
 
-## 🌐 Portfolio Website
-
-A personal portfolio website created to showcase my skills, projects, development journey, and experience.
-
-🔗 **[View Repository](https://github.com/SaqibAnwar56/CodeAlpha_Build-your-own-portfolio-site)**
-
----
 
 # 🧠 My Learning Journey
 
@@ -191,12 +181,10 @@ Databases & Backend
 # 📚 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-Advanced%20Concepts-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web-Full--Stack-1572B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software-Engineering-6C63FF?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Python-Advanced%20Concepts-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-FF6F00?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Web-Full--Stack-1572B6?style=for-the-badge" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Software-Engineering-6C63FF?style=for-the-badge" alt="Software Engineering"/>
 </p>
 
 I'm continuously working on improving my:
@@ -214,15 +202,11 @@ I'm continuously working on improving my:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaqibAnwar56&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Saqib's GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=SaqibAnwar56&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Saqib's GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibAnwar56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=SaqibAnwar56&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaqibAnwar56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -230,7 +214,7 @@ I'm continuously working on improving my:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaqibAnwar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SaqibAnwar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" alt="GitHub Achievements"/>
 </p>
 
 ---
@@ -285,6 +269,9 @@ Every line of code brings me closer to becoming the engineer I want to be. 🚀
   <img src="https://komarev.com/ghpvc/?username=SaqibAnwar56&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
-
+<!--
+Keep learning.
+Keep building.
+Keep improving.
 Keep shipping. 🚀
 -->
