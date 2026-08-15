@@ -1,4 +1,4 @@
-Absolutely. I’d recommend using this as your **complete `README.md`**. I’ve cleaned the wording, removed unnecessary repetition, fixed the statistics/achievement sections, and kept your profile focused on **Software Engineering + Python + Web Development + DSA**.
+
 
 # 👋 Hi, I'm Saqib Anwar
 
@@ -285,9 +285,6 @@ Every line of code brings me closer to becoming the engineer I want to be. 🚀
   <img src="https://komarev.com/ghpvc/?username=SaqibAnwar56&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
-<!--
-Keep learning.
-Keep building.
-Keep improving.
+
 Keep shipping. 🚀
 -->
