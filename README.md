@@ -168,6 +168,8 @@ The project focuses on making queue handling more organized, reducing manual wor
 **PHP • HTML • CSS • JavaScript**
 
 🔗 **[View Repository](https://github.com/SaqibAnwar56/OBR_QUEUE-MANAGEMENT-SYSTEM)**
+🌐 **[Visit Live Website](https://obr-queue-management.infinityfreeapp.com/OBR_QMS/customer/index.php)**
+
 
 ---
 
