@@ -1,4 +1,3 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/95d94bb5-a382-4c7f-95de-28825e4f5be6" />
 
 # 👋 Hi, I'm Saqib Anwar
 
